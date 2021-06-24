@@ -43,5 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JeuriMorel)
-- Twitter - [@yourusername](https://www.twitter.com/codeToPerdition)
+- Frontend Mentor - [@JeuriMorel](https://www.frontendmentor.io/profile/JeuriMorel)
+- Twitter - [@codeToPerdition](https://www.twitter.com/codeToPerdition)
