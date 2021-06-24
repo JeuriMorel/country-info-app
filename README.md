@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobile-first-react-app-hVze6h2Qc](https://your-solution-url.com)
+- Live Site URL: [https://countries-api-app.vercel.app/](https://your-live-site-url.com)
 
 ## My process
 
